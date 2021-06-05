@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url("resources/images/c6.png");
+}
+
+.button {
+	font-size: 19px; margin-top : 10px;
+	border-width: 2px;
+	border-radius: 25px;
+	background-color: tomato;
+	color: white;
+	cursor: pointer;
+	border-width: 2px;
+	padding: 5px 15px;
+}
+
+.button:hover {
+	background-color: white;
+	color: tomato;
+}
